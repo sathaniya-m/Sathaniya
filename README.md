@@ -340,7 +340,7 @@ Open_To:
 | Platform | Link |
 |----------|------|
 | Gmail | sathaniya12@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/sathaniya-m-74802334a |
+| LinkedIn |linkedin.com/in/sathaniya12062006 |
 | GitHub | https://github.com/sathaniya-m |
 | Portfolio | https://sathaniya-m.github.io/portfolio/proto/ |
 
